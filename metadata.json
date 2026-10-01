@@ -1,0 +1,6 @@
+{
+  "name": "Kinetix AI Workspace",
+  "description": "Full-stack conversational AI workspace supporting NVIDIA NIM and Google Gemini models with real-time SSE streaming, code artifacts, and reasoning traces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
